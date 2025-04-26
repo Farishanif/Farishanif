@@ -1,6 +1,6 @@
 ### Hi I'm @Farishanif 👋
 
-<p>I'm currently trying my luck for a career as a software engineer!</p><br>
+<p>I'm currently trying my luck for a career as a software engineer!</p>
 
 <p>I'm a curious guy 😄 and interested in a lot of IT things such as:</p>
 <ul>
