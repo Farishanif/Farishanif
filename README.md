@@ -9,5 +9,5 @@ I'm a curious guy 😄 and interested in a lot of IT things such as:
 - Artificial Inteligent
 - Game Developer
 
-There's a lot of my project in here from individual or team, feel free to browse or look on them!
+There's a lot of my project in here from individual or team, feel free to browse or look at them!
 
