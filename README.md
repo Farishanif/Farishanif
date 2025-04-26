@@ -1,13 +1,15 @@
 ### Hi I'm @Farishanif 👋
 
-I'm currently trying my luck for a career as a software engineer!
+<p>I'm currently trying my luck for a career as a software engineer!</p><br>
 
-I'm a curious guy 😄 and interested in a lot of IT things such as:
-- Internet of Things
-- Web Developer
-- Android Developer
-- Artificial Inteligent
-- Game Developer
+<p>I'm a curious guy 😄 and interested in a lot of IT things such as:</p>
+<ul>
+  <li>Internet of Things</li>
+  <li>Internet of Things</li>
+  <li>Android Developer</li>
+  <li>Artificial Inteligent</li>
+  <li>Game Developer</li>
+</ul>
 
-There's a lot of my project in here from individual or team, feel free to browse or look at them!
+<p>There's a lot of my project in here from individual or team, feel free to browse or look at them!</p>
 
