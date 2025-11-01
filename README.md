@@ -5,8 +5,8 @@
 <p>I'm a curious guy 😄 and interested in a lot of IT things such as:</p>
 <ul>
   <li>Internet of Things</li>
-  <li>Android Developer</li>
   <li>Artificial Inteligent</li>
+  <li>Android Developer</li>
   <li>Game Developer</li>
 </ul>
 
