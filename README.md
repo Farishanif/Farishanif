@@ -11,4 +11,5 @@
 </ul>
 
 <p>There's a lot of my project in here from individual or team, feel free to browse or look at them!</p>
+<a href="https://farishanif.github.io/Personafied-Fariz/index">Check My Website!</a>
 
